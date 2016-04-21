@@ -99,6 +99,10 @@ footer {
   visibility: hidden;
 }
 
+.corgi-li {
+  width: 170px;
+}
+
 .corgi-img {
   width: 170px;
 }
